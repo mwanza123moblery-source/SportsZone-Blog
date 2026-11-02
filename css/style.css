@@ -1,0 +1,44 @@
+/* General page styling */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f6f9;
+    color: #222;
+    line-height: 1.6;
+}
+
+/* Main heading */
+h1 {
+    background-color: #071b35;
+    color: white;
+    text-align: center;
+    padding: 30px;
+}
+
+/* Paragraph */
+p {
+    text-align: center;
+    margin: 20px;
+    font-size: 18px;
+}
+
+/* Categories heading */
+h2 {
+    color: #071b35;
+    margin: 20px;
+}
+
+/* Sports categories */
+ul {
+    margin: 20px 40px;
+}
+
+li {
+    padding: 8px;
+    font-size: 17px;
+}
